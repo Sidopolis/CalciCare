@@ -44,7 +44,4 @@ The dataset includes the following features:
 - Explore deep learning models for improved prediction accuracy.
 - Integrate with a user-friendly web interface for real-time risk assessment.
 
-## 📝 License
-
-This project is licensed under the MIT License.
 
